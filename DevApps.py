@@ -60,5 +60,5 @@ root.title("IP Address Finder")
 fetch_button = tk.Button(root, text="Get IP Information", command=on_button_click)
 fetch_button.pack(pady=20)
 
-# Run the application
+# Run the applications
 root.mainloop()
